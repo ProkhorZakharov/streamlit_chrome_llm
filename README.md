@@ -14,3 +14,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run example.py
 ```
+
+## Demo
+
+![Gif DEMO](./demo.gif)
+
